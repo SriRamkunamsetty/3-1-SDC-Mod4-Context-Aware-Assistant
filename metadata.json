@@ -1,0 +1,6 @@
+{
+  "name": "Context Assistant",
+  "description": "A context-aware, memory-based chat assistant that maintains conversation history, auto-extracts user context, and improves continuity in responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
